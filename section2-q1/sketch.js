@@ -8,6 +8,6 @@ function setup() {
   else{
     stroke(255,0,0);
   }
-  ellipse(50,50,x);
+  ellipse(50,50,x);　
   }
   }
