@@ -24,6 +24,7 @@ function setup() {
          fill(0);
        ellipse(10 + 20 * x,10+ 20 * y,16);
                                }
+                               
     }
 
       if(x % 2 == 1 && y % 2 == 0){
