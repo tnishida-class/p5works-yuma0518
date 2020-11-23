@@ -38,10 +38,6 @@ function draw(){
 }
 
 
-
-
-
-
 function network(cx,cy,r){
 beginShape();
   for(let i = 0; i <14; i ++){
